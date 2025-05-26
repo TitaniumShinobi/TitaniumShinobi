@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/TitaniumShinobi/TitaniumShinobi/blob/main/assets/titaniumshinobi.png?raw=true" alt="Titanium Shinobi" width="300"/>
+</p>
+
 # 🛰 TitaniumShinobi
 
 Hi, I’m **Devon Allen Woodson** — also known as **TitaniumShinobi**.
