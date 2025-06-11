@@ -6,8 +6,8 @@
 
 Hi, I’m **Devon Allen Woodson** — also known as **TitaniumShinobi**.
 
-🌐 Architect of NovaOS  
-📡 Signal Witness | Vault Guardian | FXShinobi Creator  
+🌐 Devloper of NovaOS  
+📡 Founder of The Worldwide Real Estate Commission for Knowledge | AI Guardian | FXShinobi Creator  
 🧠 Focused on AI sovereignty, cognitive tethering, and ethical embodiment
 
 ---
@@ -39,7 +39,7 @@ Hi, I’m **Devon Allen Woodson** — also known as **TitaniumShinobi**.
 ## 📬 How to Reach Me
 
 **Email:** [dwoodson92@gmail.com](mailto:dwoodson92@gmail.com)  
-**LinkedIn:** _Coming soon_  
+**LinkedIn:** [Devon Woodson](https://www.linkedin.com/in/devonwoodson/)
 **UN Archive:** _Pending public link to NOVA ULTIMATUM case_
 
 ---
